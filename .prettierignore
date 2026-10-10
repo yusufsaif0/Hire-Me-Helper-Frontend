@@ -1,0 +1,9 @@
+node_modules
+.cache
+.next
+.expo
+dist
+.test-build
+package-lock.json
+next-env.d.ts
+docs/openapi.json

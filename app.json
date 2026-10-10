@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Trusted Assistance Worker",
+    "slug": "trusted-assistance-worker",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.trustedassistance.worker"
+    },
+    "android": {
+      "package": "com.trustedassistance.worker"
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "Trusted Assistance | worker"
+    },
+    "plugins": ["expo-secure-store"]
+  }
+}
